@@ -5,13 +5,14 @@ body {
 
 }
 
-.title-section {
+.banner {
     text-align: center;
     background-image: url(images/donation3.jpg);
-    background-position: center;
+    min-height: 100vh;
+    background-position: 100%;
     color: white;
     background-size: 100%;
-    margin-top: 0px;
+    margin: 0px;
     
 
 
