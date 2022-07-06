@@ -1,0 +1,178 @@
+body {
+    font-family: 'Gentium Book Plus', serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
+
+}
+
+.title-section {
+    text-align: center;
+    background-image: url(images/donation3.jpg);
+    background-position: center;
+    color: white;
+    background-size: 100%;
+    margin-top: 0px;
+    
+
+
+  
+}
+span {
+    color: #f71981;
+}
+
+.title-color{
+    color: white;
+    font-size: 50px;
+}
+h3 {
+    font-size: 40px;
+    color: #f71942;
+}
+p {
+    font-size: 20px;
+   
+    
+}
+.button-donate {
+    text-decoration: none;
+    background-color: #8fed5c;
+    padding: 15px 50px;
+   border-radius: 15px;
+    color: black;
+}
+#give-now-id {
+    color: black;
+    font-size: 40px;
+}
+.amount-donate-section {
+    text-align: center;
+    padding: 70px;
+}
+#type-money {
+    display: inline;
+    box-shadow: 10px 10px 40px #c7c4c4;
+    justify-content: center ;
+    align-items: center;
+    border-radius: 15px;
+    padding: 40px;
+    margin-left: 10px;
+    width: 40px;
+    color: rgb(245, 23, 127);
+}
+.border-color {
+    border: 5px solid tomato;
+}
+.input-section {
+    text-align: center;  
+}
+.button-donate-now {
+    text-decoration: none;
+    background-color: #8fed5c;
+    padding: 15px 50px;
+    border-radius: 15px;
+    color: black;
+}
+.donate-plan-title {
+    text-align: center;
+    font-size: 30px;
+    
+}
+.our-surve {
+   
+    background-repeat: no-repeat;
+    
+}
+.site-footer {
+    background: orange;
+  }
+  
+  #footer-content {
+    background: red;
+    background-clip: 100%;
+  }
+ .discription-1{
+    color: black;
+    width: 50%;
+ }
+ .half-width-1 {
+    display: flex;
+    padding: 20px 30px;
+    
+ }
+ .donate-plan-discription {
+    display: flex;
+    margin: 40px 40px;
+    text-align: left;
+    
+    
+ }
+ #food-for-family {
+    background-color: #8fed5c;
+    margin-right: 20px;
+    padding: 40px;
+    border-radius: 20px;
+    
+ }
+#shelter-for-family {
+    background-color: rgb(255, 196, 232);
+    margin-right: 20px;
+    padding: 40px;
+    border-radius: 20px;
+}
+#education-for-child {
+    background-color: bisque;
+   margin-right: 20px ;
+   padding: 40px;
+   border-radius: 20px;
+}
+.button-Contribute {
+   background-color: tomato ;
+   margin-top: 50px;
+   padding: 20px 30px;
+   border-radius: 15px;
+   color: white;
+   text-decoration: none;
+}
+.half-with {
+    display: flex;
+   
+}
+.donation-airtcle {
+    width: 50%;
+    padding: 50px;
+    margin- 20px;
+   
+}
+.subscribe-section {
+    
+    text-align: center;
+}
+input {
+    text-align: center;
+    background-color: #f5ece6y;
+    padding: 10px 40px;
+    
+
+}
+.subscribe-gmail {
+    display: inline-block;
+    background-color: bisque;
+    padding: 60px;
+   
+    
+}
+.subscribe-button {
+    color: white;
+    padding: 10px 40px;
+    background-color: tomato;
+    
+}
+footer {
+    background-color: gray;
+    padding: 50px;
+    margin-top: 50px;
+    color: white;
+    text-align: center;
+    font-size: 20px;
+}
